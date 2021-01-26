@@ -1,0 +1,11 @@
+C:\Users\h5708\Desktop\oneLab\Finance_PayeeMail\Finance_PayeeMail\bin\Debug\Finance_PayeeMail.exe.config
+C:\Users\h5708\Desktop\oneLab\Finance_PayeeMail\Finance_PayeeMail\bin\Debug\Finance_PayeeMail.exe
+C:\Users\h5708\Desktop\oneLab\Finance_PayeeMail\Finance_PayeeMail\bin\Debug\Finance_PayeeMail.pdb
+C:\Users\h5708\Desktop\oneLab\Finance_PayeeMail\Finance_PayeeMail\obj\Debug\Finance_PayeeMail.Form1.resources
+C:\Users\h5708\Desktop\oneLab\Finance_PayeeMail\Finance_PayeeMail\obj\Debug\Finance_PayeeMail.Properties.Resources.resources
+C:\Users\h5708\Desktop\oneLab\Finance_PayeeMail\Finance_PayeeMail\obj\Debug\Finance_PayeeMail.csproj.GenerateResource.cache
+C:\Users\h5708\Desktop\oneLab\Finance_PayeeMail\Finance_PayeeMail\obj\Debug\Finance_PayeeMail.csproj.CoreCompileInputs.cache
+C:\Users\h5708\Desktop\oneLab\Finance_PayeeMail\Finance_PayeeMail\obj\Debug\Finance_PayeeMail.exe
+C:\Users\h5708\Desktop\oneLab\Finance_PayeeMail\Finance_PayeeMail\obj\Debug\Finance_PayeeMail.pdb
+C:\Users\h5708\Desktop\oneLab\Finance_PayeeMail\Finance_PayeeMail\obj\Debug\Finance_PayeeMail.csprojAssemblyReference.cache
+C:\Users\h5708\Desktop\oneLab\Finance_PayeeMail\Finance_PayeeMail\obj\Debug\Finance_PayeeMail.Form2.resources

@@ -1,0 +1,28 @@
+<!DOCTYPE HTML><html><head>
+<style type="text/css">
+    pre { font-family: Arial; font-size:0.75em; } table#tb1 tr td { font-family: Arial; padding:3px 20px; margin:0; font-size:0.7em; font-weight:bold; } .tt { background-color:#eee; text-align:center; } 
+    .center { text-align:center; } .left { text-align:left;} .right { text-align:right;} 
+    .red { color:red; } .blue { color:blue; }</style>
+</head>
+<body>
+
+<pre>
+Hi <b class=blue>{{Payee}}</b>,
+
+Please be informed that <b class=blue>{{Company}}</b> NT$<b class=red>{{TotalAmount}}</b> has been transferred to your Fubon bank account on <b class=red>{{SendDate}}</b>. 
+If you have any questions about the payment, please feel free to contact Finance Department. 
+Thanks
+
+<table id='tb1' border='1' cellspacing='0' cellpadding='0'>
+<tr><td class='tt'>Payee</td><td class='tt'>Amount</td><td class='tt'>Description of Payment</td></tr>
+<!-- BEGIN PayeeDetails -->
+<tr><td class='center'>{{Payee}}</td><td class='right'>{{Amount}}</td><td class='left'>{{Dscr}}</td></tr>
+<!-- END PayeeDetails -->
+<tr><td class='center'>Subtotal</td><td class='right'>{{TotalAmount}}</td><td class='left'></td></tr>
+</table>
+
+Finance Department
+</pre>
+	
+	</body>
+</html>

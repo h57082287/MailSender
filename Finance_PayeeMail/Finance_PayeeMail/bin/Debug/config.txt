@@ -1,0 +1,4 @@
+smtp-relay.gmail.com
+25
+Payment@nextfortune.tw
+瑞嘉
